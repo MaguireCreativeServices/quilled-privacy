@@ -27,20 +27,25 @@ Quilled stores writing data on your device and may use storage or synchronisatio
 
 Your manuscripts remain your intellectual property. Using Quilled does not transfer ownership of your writing to Maguire Creative Services.
 
-## 4. Dropbox Integration
+## 4. Dropbox Integration and Synchronisation
 
-Quilled may offer an optional connection to your Dropbox account.
+Quilled uses Dropbox to provide optional cloud storage and synchronisation of writing projects between devices.
 
-If you choose to connect Dropbox:
+When you connect your Dropbox account, Quilled may:
 
-- You will be asked to authorise Quilled through Dropbox.
-- Quilled will use the permissions granted to access files necessary for its supported Dropbox features.
-- Files transferred to Dropbox will be subject to Dropbox's own privacy and security practices.
-- You can revoke Quilled's access through your Dropbox account settings.
+- Save your manuscripts, chapters, notes and associated project data to Dropbox.
+- Synchronise changes between your Mac, iPhone and other supported devices.
+- Access and update previously saved project files to keep your writing consistent across devices.
+- Retrieve stored writing data when you reconnect or use Quilled on another device.
+- Synchronise regularly while the integration is enabled.
 
-Quilled will not connect to your Dropbox account without your authorisation.
+Dropbox access is authorised by you and is used to provide these features.
 
-For information about Dropbox's data practices, visit [Dropbox's Privacy Policy](https://www.dropbox.com/privacy).
+Your writing remains your intellectual property. Maguire Creative Services does not claim ownership of your manuscripts.
+
+You can disconnect Quilled from Dropbox through your Dropbox account settings. Disconnecting does not automatically delete files already stored in Dropbox.
+
+Files stored in Dropbox are also subject to [Dropbox's Privacy Policy](https://www.dropbox.com/privacy).
 
 ## 5. Sharing of Information
 
